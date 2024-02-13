@@ -7,3 +7,9 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 
 [![Telegram Badge](https://img.shields.io/badge/@AbdulazizbekCoder-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/AbdulazizbekCoder)](https://t.me/AbdulazizbekCoder)
+
+
+- :computer:  I'm currently working on Laravel 
+- :hourglass_flowing_sand: Exploring Microservices & Event Driven Architecture
+- :muscle: Do Bodybuilding & Calisthenics
+- :rocket: Always ready to collaborate for Dev Experiments
